@@ -1,0 +1,42 @@
+p.web{
+    background-color: rgb(179, 179, 255);
+}
+#azul{
+    display: flex;
+    height: 200px;
+    width: 30%;
+    margin-bottom: 20px;
+    background-color: blue;
+    align-items: right;
+}
+#rojo{
+    display: flex;
+    height: 200px;
+    width: 30%;
+    margin-bottom: 20px;
+    background-color: red;
+    align-items: center;
+}
+#amarillo{
+    display: flex;
+    height: 200px;
+    width: 30%;
+    margin-bottom: 20px;
+    background-color: yellow;
+    align-items: left;
+}
+#verde{
+    padding: 20px;
+    border: 10px;
+    background-color: green;
+}
+h1{
+    text-align: center;
+}
+body {
+    margin: 0;
+}
+main{
+    height: 100%;
+    width: 100%;
+}
